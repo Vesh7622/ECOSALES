@@ -2,7 +2,6 @@
 
 Welcome to the **Online Retail Shop** project! This is a simple command-line based retail shop system implemented in C. Users can register, log in, and either sell or buy products. The data is stored in files, making it lightweight and easy to manage without the need for a database.
 
-![Online Retail Shop](./ecob.jpg)
 <img src="./ecob.jpg" alt="Online Shopping Logo" width="300"/>
 ## 📋 Features
 
