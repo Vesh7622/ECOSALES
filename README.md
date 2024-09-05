@@ -1,8 +1,8 @@
-# 🛒 Online Retail Shop -- ECOSALES
+# 🛒 Online Retail Shop -- ECOBAZAAR
 
 Welcome to the **Online Retail Shop** project! This is a simple command-line based retail shop system implemented in C. Users can register, log in, and either sell or buy products. The data is stored in files, making it lightweight and easy to manage without the need for a database.
 
-![Online Retail Shop]([https://via.placeholder.com/800x400?text=Online+Retail+Shop+Overview](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Donline%2Bshopping%2Blogo&psig=AOvVaw3U7YnNXqrU8zw9TH4lnfc3&ust=1725642189098000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDni6KkrIgDFQAAAAAdAAAAABAK))
+![Online Retail Shop]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Donline%2Bshopping%2Blogo&psig=AOvVaw3U7YnNXqrU8zw9TH4lnfc3&ust=1725642189098000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLDni6KkrIgDFQAAAAAdAAAAABAK]
 
 ## 📋 Features
 
